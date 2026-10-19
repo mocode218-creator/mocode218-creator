@@ -37,10 +37,4 @@ Back-End Software Developer specializing in C# and .NET, with a strong foundatio
 - Complete General Programming Roadmap (24 courses), Programming Advices (10/2024 - 09/2026)
 
 ---
-
-## 📫 Let's Connect
-
-- LinkedIn: [linkedin.com/in/moamen-mohamed-0bb938328](https://www.linkedin.com/in/moamen-mohamed-0bb938328)
-- Email: [mocode218@gmail.com](mailto:mocode218@gmail.com)
-
 I'm open to Junior and Internship opportunities in .NET back-end development.
