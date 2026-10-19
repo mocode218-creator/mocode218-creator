@@ -2,7 +2,13 @@
 
 ### .NET Back-End Developer
 
-Information Systems student at Kafr Elsheikh University, specializing in **C#** and **.NET**. I build and secure RESTful APIs with **ASP.NET Core** and design **SQL Server** databases, with a focus on clean, maintainable, and testable code.
+Back-End Software Developer specializing in C# and .NET, with a strong foundation in object-oriented programming, SOLID principles, data structures, and algorithms. Experienced in building RESTful APIs with ASP.NET Core, secured with JWT authentication, role-based and policy-based authorization, refresh tokens, and rate limiting. Skilled in database design and development using SQL Server, T-SQL, ADO.NET, and Entity Framework Core, applying 3-tier architecture and clean code practices. Proficient with Git and GitHub, asynchronous programming, LINQ, and Dependency Injection, with a focus on writing maintainable, scalable, and testable code.
+
+- 👯 I’m looking to collaborate on .NET back-end projects and APIs
+- 🤝 I’m looking for help with software architecture, unit testing, and deployment
+- 🌱 I’m currently learning Design Patterns, Clean Architecture, and unit testing in .NET
+- 💬 Ask me about C#, ASP.NET Core, REST APIs, SQL Server database design, migrations, and JWT authentication
+- ⚡ Fun fact: I started with C++ and algorithms before moving to .NET, and that's why I care so much about clean, efficient code
 
 ---
 ## 🛠 Tech Stack
